@@ -334,8 +334,8 @@ with col2:
     # st.image("colleague-photo.jpg", width=100)
     st.markdown("""
         <div style='line-height: 1.1;'>
-            <h3>Rizwan Abid</h3>
-            PhD Scholar<br>
+            <h3>Dr. Rizwan Abid</h3>
+            PhD Biochemistry<br>
             School of Biochemistry and Biotechnology<br>
             University of the Punjab, Lahore<br>
             Email: rizwan.phd.ibb@pu.edu.pk
