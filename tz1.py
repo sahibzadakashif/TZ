@@ -317,7 +317,7 @@ st.markdown(
 )
 
 # Define columns for the profiles
-col1, col2, col3 = st.columns([1, 1, 1])
+col1, col2, col3, col4 = st.columns([1, 1, 1, 1])
 
 with col1:
     # st.image("my-photo.jpg", width=100)
@@ -350,6 +350,17 @@ with col3:
             Assistant Professor<br>
             University of Management and Technology, Lahore<br>
             Email: haseeb.nisar@umt.edu.pk
+        </div>
+    """, unsafe_allow_html=True)
+with col4:
+    # st.image("teacher-photo.jpg", width=100)
+    st.markdown("""
+        <div style='line-height: 1.1; font-style: italic;'>
+            <h3>Shumaila Shahid</h3>
+            MS Researcher<br>
+            School of Biochemistry and Biotechnology<br>
+            University of the Punjab<br>
+            Email: shumaila.ms.sbb@pu.edu.pk
         </div>
     """, unsafe_allow_html=True)
 
