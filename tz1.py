@@ -355,7 +355,7 @@ with col3:
 with col4:
     # st.image("teacher-photo.jpg", width=100)
     st.markdown("""
-        <div style='line-height: 1.1; font-style: italic;'>
+        <div style='line-height: 1.1;'>
             <h3>Shumaila Shahid</h3>
             MS Researcher<br>
             School of Biochemistry and Biotechnology<br>
