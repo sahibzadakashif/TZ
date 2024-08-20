@@ -357,7 +357,7 @@ with col4:
     st.markdown("""
         <div style='line-height: 1.1;'>
             <h3>Shumaila Shahid</h3>
-            MS Researcher<br>
+            MS Biochemistry<br>
             School of Biochemistry and Biotechnology<br>
             University of the Punjab<br>
             Email: shumaila.ms.sbb@pu.edu.pk
