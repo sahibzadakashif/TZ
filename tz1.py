@@ -346,10 +346,11 @@ with col3:
     # st.image("teacher-photo.jpg", width=100)
     st.markdown("""
         <div style='line-height: 1.1;'>
-            <h3>Dr. Haseeb Nisar</h3>
-            Assistant Professor<br>
-            University of Management and Technology, Lahore<br>
-            Email: haseeb.nisar@umt.edu.pk
+            <h3>Dr. Muhammad Faisal</h3>
+            PhD Biochemistry<br>
+            University Institute of Biochemistry and Biotechnology<br>
+            PMAS-Arid Agriculture University, Rawalpindi<br>
+            Email: faisal575pk@gmail.com
         </div>
     """, unsafe_allow_html=True)
 with col4:
